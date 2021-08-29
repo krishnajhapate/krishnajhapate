@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Krishna Jhapate!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Krishna Jhapate!
 
 
 **krishnajhapate/krishnajhapate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can email me at jhapatekrishna@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+---
+
+🧰 Toolbox
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+---
+
 
