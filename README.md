@@ -122,6 +122,6 @@
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=krishnajhapate&show_private=true&theme=dark&hide=other,bux,tutorial%20videos&layout=compact&hide_border=true"></a>
   </p>
 </details>
-<!-- <h3  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=mo-shakib.aemmadi"></h3> -->
-<!-- <a href="https://buymeacoffee.com/moshakib"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a> -->
-<!-- <img align="right" src="https://gpvc.arturio.dev/Mo-Shakib"> -->   
+<h3  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=krishnajhapate"></h3>
+<a href="https://buymeacoffee.com/krishnajhapate"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+<img align="right" src="https://gpvc.arturio.dev/krishnajhapate">   
