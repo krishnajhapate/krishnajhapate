@@ -12,3 +12,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Noob
 
+![Narendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkhandwe&show_icons=true&theme=radical)
