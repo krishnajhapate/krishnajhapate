@@ -1,6 +1,5 @@
-
 <p align="right">
-  <a href="https://wakatime.com/@krishnajhapate"><img alt="" src="https://wakatime.com/badge/user/d2d1b7ff-6f82-4abb-8592-fd7cfc351d22.svg"></a>
+  <a href="https://wakatime.com/@krishnajhapate"><img alt="" src="https://wakatime.com/badge/user/5ab2bc94-376b-4ada-bbd1-a6f90df1afca.svg"></a>
   <a href="#"><img alt="" src="https://gpvc.arturio.dev/krishnajhapate"></a>
 </p>
 <h3 align="center">
@@ -47,6 +46,12 @@
 
 ### ⚡ Languages and Frameworks:
 [![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
+[![React](https://img.shields.io/badge/-React-darkblue?logo=React)](#)
+[![Expo](https://img.shields.io/badge/-Expo-black?logo=expo)](#)
+[![Scss](https://img.shields.io/badge/-Scss-pink?logo=sass)](#)
+[![React Native](https://img.shields.io/badge/-React%20Native-darkblue?logo=React)](#)
+[![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-blue?logo=tailwindcss&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
@@ -71,6 +76,8 @@
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
   <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white"></a>
+  <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?logo=heroku"></a>
+  <a href="#"><img alt="Aws" src="https://img.shields.io/badge/-Aws-FF9900?logo=amazon&logoColor=black"></a>
   <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
   <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>  
@@ -119,7 +126,7 @@
 <details>	
   <summary><b>&#x23F2; Coding Activity over last 7 days</b></summary><br>
   <p align="center">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=krishnajhapate&show_private=true&theme=dark&hide=other,bux,tutorial%20videos&layout=compact&hide_border=true"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@krishnajhapate&show_private=true&theme=dark&hide=other,bux,tutorial%20videos&layout=compact&hide_border=true"></a>
   </p>
 </details>
 <h3  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=krishnajhapate"></h3>
